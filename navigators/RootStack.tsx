@@ -68,7 +68,7 @@ const RootStack: FunctionComponent = () => {
                     options={{
                         headerTitle: (props) => (
                             <Greeting
-                                mainText='Olá Kelvin!'
+                                mainText='Olá Você!'
                                 subText='Bem vindo de volta'
                                 {...props}
                             />
