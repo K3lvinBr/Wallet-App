@@ -46,5 +46,4 @@ $ expo start
 ```
 
 ---
-
 Feito com ❤️ por Kelvin 👋 [Veja meu LinkedIn](https://www.linkedin.com/in/kelvin-sales-54306321a/)
