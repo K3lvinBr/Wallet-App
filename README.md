@@ -1,23 +1,23 @@
 # :credit_card: Wallet-App :credit_card:
 
-Interface aplicativo de carteira digital.
+Digital wallet application interface.
 <p align="center">
-  <a href="#page_facing_up-projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-project">Project</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#art-layout">Layout</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer_and_wrench-tecnologias">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-como-executar">Como executar</a>
+  <a href="#hammer_and_wrench-technologies">Technologies</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-how-to-run">How to run</a>
 </p>
 
-## :page_facing_up: Projeto
-Interface aplicativo de carteira digital. No qual foi utilizado React Native com Expo, Styled-components, reanimated-bottom-sheet, e Typescript para declarar tipagem.
+## :page_facing_up: Project
+Digital wallet application interface. Which React Native was used with Expo, Styled-components, reanimated-bottom-sheet, and Typescript to declare type.
 
 ## :art: Layout
 <div align="center">
   <img height="490" src="assets/to_Readme/app_gif.gif" />
 </div>
 
-## :hammer_and_wrench: Tecnologias
-Este projeto foi desenvolvido com as seguintes tecnologias
+## :hammer_and_wrench: Technologies
+This project was developed with the following technologies.
 
 - [React Native](https://reactnative.dev)
 - [Reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
@@ -25,25 +25,25 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [TypeScript](https://www.typescriptlang.org)
 - [Styled-components](https://styled-components.com)
 
-## :computer: Como executar
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.dev), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+## :computer: How to run
+Before starting, you will need to have the following tools installed on your machine:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.dev), Besides, it's good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
 
 ```bash
-# Clone este repositório.
+# Clone this repository.
 $ git clone https://github.com/K3lvinBr/Wallet-App.git
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder in terminal/cmd.
 $ cd money_bag
 
-# Instale as dependências
+# install the dependencies.
 $ npm install
 
-# Execute a aplicação
+# run the application.
 $ expo start
 
-# Baixe o Expo Go no seu dispositivo para Android ou IOS
+# Download Expo Go on your Android or IOS device
 ```
 
 ---
-Feito com ❤️ por Kelvin 👋 [Veja meu LinkedIn](https://www.linkedin.com/in/kelvin-sales-54306321a/)
+Made with ❤️ by Kelvin 👋 [See my LinkedIn](https://www.linkedin.com/in/kelvin-sales-54306321a/)
