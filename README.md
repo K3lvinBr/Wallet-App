@@ -27,7 +27,7 @@ This project was developed with the following technologies.
 
 ## :computer: How to run
 Before starting, you will need to have the following tools installed on your machine:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.dev), Besides, it's good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.dev), Besides, it's good to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
 
 ```bash
 # Clone this repository.
