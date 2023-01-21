@@ -9,7 +9,7 @@ Digital wallet application interface.
 </p>
 
 ## :page_facing_up: Project
-Digital wallet application interface, in which React Native was used with TypeScript, Expo, Styled-components to style the competent ones and make them totally flexible and reusable, and reanimated-bottom-sheet which was used to create a bottom drawer of the React Native.
+Digital wallet application interface, in which React Native was used with TypeScript, Expo, Styled-components to style the components and make them fully flexible and reusable, and reanimated-bottom-sheet which was used to create a bottom drawer of the React native.
 
 ## :art: Layout
 <div align="center">
